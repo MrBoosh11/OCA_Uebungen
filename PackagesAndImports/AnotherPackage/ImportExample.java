@@ -1,7 +1,8 @@
 package PackagesAndImports.AnotherPackage;
 
-import a.b.c.d.*;
 import java.util.*;
+
+import PackagesAndImports.AnotherPackage.a.b.c.*;
 
 
 /**
